@@ -6,7 +6,7 @@ and I need some help. Maybe you can be that person?
 
 Our museum has a legacy auidoguide that I want to make work harder and augment
 our collections information with searchable text of the descriptions and stories
-that were created for the audio tour. These texts could help sensory deprived people
+that were created for the audio tour. These texts could help people
 experience our amazing objects in a different way, and maybe we could translate them.
 
 So for this application, I have split the tours into 10 second segments or when there is a
